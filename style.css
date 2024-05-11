@@ -19,7 +19,7 @@ footer{
     bottom: 0;
     width: 100%;
     background-color: rgba(255, 255, 255, 0.1);
-    backdrop-filter: blur(8px) saturate(100%)
+    backdrop-filter: blur(10px) saturate(100%)
                     contrast(45%) brightness(130%);
     border-top: solid 1px white;
     box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.2);
@@ -78,7 +78,7 @@ button[type="submit"]:active{
 }
 .card{
     background-color: rgba(255, 255, 255, 0.3);
-    backdrop-filter: blur(8px) saturate(100%)
+    backdrop-filter: blur(10px) saturate(100%)
                     contrast(45%) brightness(130%);
     border: solid 1px white;
     border-radius: 12px;
